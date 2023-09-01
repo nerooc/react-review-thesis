@@ -1,0 +1,13 @@
+.counter-app {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 300px;
+  }
+  
+  button {
+    margin: 0 5px;
+  }
+  

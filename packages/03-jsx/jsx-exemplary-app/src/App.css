@@ -1,0 +1,15 @@
+/* App.css */
+.App {
+  text-align: center;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #007bff; /* Blue color */
+}
+
+p {
+  font-size: 18px;
+  color: #333; /* Dark gray color */
+}

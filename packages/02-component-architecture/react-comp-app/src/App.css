@@ -1,0 +1,37 @@
+/* App.css */
+
+/* Style for the entire app */
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+/* Style for the header component */
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+/* Style for the content component */
+main {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Add styling for Header and Content components */
+/* Header component */
+header h1 {
+  font-size: 24px;
+}
+
+/* Content component */
+main p {
+  font-size: 18px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
