@@ -1,0 +1,10 @@
+modules:
+  jira:projectPage:
+    - key: hello-world-project-page
+      function: main
+      title: Hello World!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/4978299c-55f3-4ec7-891a-4d35f3b57af4
