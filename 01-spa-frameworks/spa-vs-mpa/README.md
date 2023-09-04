@@ -6,7 +6,7 @@ This directory contains two separate applications built using different architec
 
 The SPA is built using React, a popular JavaScript library for building user interfaces. To run the SPA, follow these steps:
 
-1. Navigate to the `spa-app` directory: `cd spa-react-app`
+1. Navigate to the `spa-app` directory: `cd spa-app`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000)
